@@ -1,0 +1,3 @@
+simple GST raw video player,
+
+makefile is set to build for arm processors (NXP i.MX), change it to your target.
